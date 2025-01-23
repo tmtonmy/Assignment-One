@@ -1,0 +1,284 @@
+.fira-sans-bold {
+    font-family: "Fira Sans", serif;
+    font-weight: 700;
+    font-style: normal;
+}
+
+/* shared style */
+.secondary-bg {
+    background-color: #C6E4D6;
+    max-width: ;
+
+}
+
+
+
+/* nav title*/
+.nav-2 {
+    margin-left: 36px;
+}
+
+nav {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    margin: 0px 160px;
+
+}
+
+.nav-title {
+    font-weight: bold;
+    font-size: 32px;
+}
+
+.btn-primary {
+    font-weight: 600;
+    color: #006A50;
+    padding: 18px 30px;
+    border-radius: 8px;
+    border-style: solid;
+    border-color: #006A50;
+    font-size: 18px;
+
+}
+
+/* banner styles */
+.banner {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 160px 0px 160px;
+    box-shadow: #006A50;
+}
+
+.banner-content {
+    width: 622px;
+    height: 246px;
+}
+
+.banner-greeeting {
+    font-size: 24px;
+    font-weight: 500;
+    color: solid#0E0E0E;
+}
+
+.banner-title {
+    font-weight: bold;
+    font-size: 56px;
+    color: #0E0E0E;
+}
+
+.btn-style {
+    padding: 17px 34px;
+    border-radius: 8px;
+    background-color: #006A50;
+    color: #FFFFFF;
+
+}
+
+.banner-profile-pic {
+    max-width: 474px;
+    height: 400px;
+
+}
+
+/* skill section styles */
+
+.h3-section {
+    margin: 80px 160px;
+}
+
+.skill-container {
+    margin: 32px 160px;
+    display: flex;
+    gap: 24px;
+
+
+}
+
+.skill {
+    box-shadow: 0px 4px 4px 0px #000000;
+    padding: 24px;
+    border-radius: 16px;
+}
+
+/* futer styles */
+.futer-title {
+    margin: 80px 160px;
+}
+
+.futher-description {
+    color: #0E0E0E;
+    margin: 80px 160px;
+}
+
+.futer-container {
+    margin: 32px 160px;
+    display: flex;
+    gap: 24px;
+}
+
+.futer {
+    box-shadow: 0px 4px 4px 0px #000000;
+    background-color: solid#f1f3f3;
+    padding: 32px;
+    border-radius: 16px;
+}
+
+.btn-color {
+    background-color: #5490F5;
+    padding: 11px 20px;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+
+}
+
+.btn-color2 {
+    background-color: #09A15C;
+    padding: 11px 20px;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+
+}
+
+.btn-color3 {
+    background-color: #FFC239;
+    padding: 11px 20px;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+
+}
+
+/* icone-style */
+.icon-description {
+    font-weight: 400;
+    font-size: 16px;
+    color: #0E0E0E;
+}
+
+.icon-title {
+    font-weight: 600;
+    font-size: 20px;
+    color: 0E0E0E;
+}
+
+.icon-description2 {
+    font-weight: 400;
+    font-size: 16px;
+
+}
+
+.icon {
+    margin: 32px 160px;
+    box-shadow: 0px 4px 4px 0px #000000;
+    padding: 48px 24px;
+    border-radius: 16px;
+}
+
+/* news styles */
+.news-title {
+    font-weight: 600;
+    font-size: 20px;
+    color: 0E0E0E;
+    margin: 32px 160px;
+}
+
+.news-description {
+    font-weight: 400;
+    font-size: 16px;
+    margin: 32px 160px;
+
+}
+
+/* recent news */
+.recent-titler {
+    font-weight: bold;
+    font-size: 32;
+    color: #0E0E0E;
+    margin: 32px 160px;
+}
+
+.recent-icon {
+    width: 134px;
+    height: 40;
+    margin: 12px 160px;
+
+}
+
+.recent-description {
+    width: 400px;
+    font-size: 16px;
+    margin: 12px 160px;
+}
+
+.recent-pic {
+    width: 408px;
+    border-radius: 24px;
+    margin: 12px 100pxpx;
+
+}
+
+.btn4 {
+    background-color: #09A15C;
+    padding: 11px 20px;
+    border-radius: 8px;
+    font-weight: 500;
+    font-size: 16px;
+    color: #FFFFFF;
+    margin: 12px 160px;
+}
+
+.recent {
+    display: flex;
+    padding: 48px 48px;
+    border-radius: 24px;
+    margin: 32px 160px;
+    box-shadow: 0px 4px 4px 0px #000000;
+
+}
+
+/* donet styles */
+.item-center {
+    align-items: center;
+}
+
+.donet {
+    text-align: center;
+    margin: 32px 160px;
+
+
+
+    height: 1071;
+
+}
+
+.donet-title {
+    font-weight: bold;
+    font-size: 40px;
+
+}
+
+.donet-discreption {
+    font-weight: 400;
+    font-size: 16px;
+}
+
+.tk-button {
+    font-weight: bold;
+    font-size: 40px;
+    border-radius: 16px;
+    padding: 40px;
+    background-color: #FFFFFF;
+    color: #0E0E0E;
+}
+
+.amount {
+    font-weight: 400;
+    font-size: 20px;
+}
+
